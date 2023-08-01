@@ -56,8 +56,6 @@ In Python, you can add values to the end of a list using the .append() method.
 
 
 
-
-
 ### count()
 
 The .count() Python list method searches a list for whatever search term it receives as an argument, then returns the number of matching entries.
